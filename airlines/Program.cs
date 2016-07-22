@@ -4,7 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Airline;
-
+/**
+ * <summary>
+ * This program outputs the scheduling seats to the passengers to the economic and first class services. 
+ * </summary>
+ * Author: Dhruti patel 
+ * Description: airline assignment4
+ * Date: 21 July 2016
+ * Student ID: 300857555
+ */
 namespace Airline
 {
 	class Program
