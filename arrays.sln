@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "arrays", "arrays\arrays.csproj", "{CDB7628D-DF90-4DB2-A632-6A67616BFFAF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dice", "arrays\Dice.csproj", "{CDB7628D-DF90-4DB2-A632-6A67616BFFAF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "airlines", "airlines\airlines.csproj", "{87B63072-649C-4DAA-BA4D-94CEDC156114}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Airline", "airlines\Airline.csproj", "{87B63072-649C-4DAA-BA4D-94CEDC156114}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
